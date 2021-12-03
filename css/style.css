@@ -13,7 +13,7 @@ body {
 
 .full-width {
     width: 100%;
-    margin: 0;
+    margin: 0px 0px 0px 0px;
 
 }
 
@@ -33,3 +33,6 @@ body {
     margin-right: auto;
 }
 
+ul {
+    text-align: left;
+}
